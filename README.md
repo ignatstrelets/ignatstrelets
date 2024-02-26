@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ignat
-
-##### I have experience in DevOps and Cloud Infrastructure Operations, as well as Python and Go programming. 
+___
+#### I have experience in DevOps and Cloud Infrastructure Operations, as well as Python and Go programming. 
 <!--
 **ignatstrelets/ignatstrelets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+----
 ### 🛠 My Tech Stack
+----
+### 🐶 My pet-projects
