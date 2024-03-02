@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ## 🐶 My pet projects and study projects
 
-### [DevOps and Cloud Infrastructure Internship assignment solutions](github.com/ignatstrelets/DevOps_courses/README.md)
+### [DevOps and Cloud Infrastructure Internship assignment solutions](https://github.com/ignatstrelets/DevOps_courses/README.md)
