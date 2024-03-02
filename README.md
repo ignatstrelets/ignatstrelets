@@ -24,4 +24,16 @@ Here are some ideas to get you started:
 
 ## 🐶 My pet projects and study projects
 
-### [DevOps and Cloud Infrastructure Internship assignment solutions](https://github.com/ignatstrelets/DevOps_courses)
+### [DevOps and Cloud Infrastructure Internship (Linux, Containers, Kubernetes, Configuration Management, CI/CD, AWS and Azure Cloud Infrastructure Management, Iac, Log / Performance Monitoring)](https://github.com/ignatstrelets/DevOps_courses)
+
+### [.NET Application AWS Deployment with Autoscaling, Image Creation, Configuration Management and Log Monitoring Setup](https://github.com/ignatstrelets/dotnet_app)
+
+### [User Management App (Python Django)](https://github.com/ignatstrelets/user-management-app)
+
+### [HTTP REST API Server (Go, Make, SQL) + Test Coverage](https://github.com/ignatstrelets/http-rest-api)
+
+### [Middleware (Go)](https://github.com/ignatstrelets/middleware)
+
+### [K-Means Algorithm Implementation (JavaScript)](https://github.com/ignatstrelets/kmeans/blob/master/kmeans.js)
+
+### [CLI Game Implementation (Python)](https://github.com/ignatstrelets/python-game)
