@@ -1,10 +1,22 @@
-# Hi there 👋 I'm Ignat
+# Hi there 👋 I'm Ignat. DevOps / Cloud Infrastructure Architect
 
 
 
-I bring 5 years of experience in DevOps and Cloud Architecture with a primary focus on Azure, including bullet-proof and production-ready architecture design, implementing best practices, and CI/CD processes design and maintenance.
-In my work, I consistently achieve measurable results such as reducing infrastructure costs and decreasing deployment time from hours to minutes, implementing Infrastructure as Code (Terraform/Bicep), Compliance by Design (PCI DSS, SOC2), automated security scanning and CI/CD pipelines, leading to highly scalable, fault-tolerant cloud architectures, improved system reliability and SLA compliance (99.9%+ uptime) and faster time-to-market.
-Languages: English — C1/C2, German — B1.
+🌐 Primary focus: Microsoft Azure – designing bullet-proof, production-ready cloud architectures
+
+⚙️ CI/CD & Automation: Implemented and maintained robust pipelines, reducing deployment times from hours to minutes
+
+🛠️ Infrastructure as Code: Expert in Terraform and Bicep for repeatable, scalable, and secure deployments
+
+🔒 Compliance & Security by Design: Ensured adherence to PCI DSS, SOC2, and automated security scanning
+
+📊 Operational Excellence: Delivered highly scalable, fault-tolerant architectures with 99.9%+ uptime, improving SLA compliance and system reliability
+
+💰 Cost Optimization: Consistently reduced infrastructure costs through efficient architecture design and automation
+
+🚀 Business Impact: Enabled faster time-to-market through standardized processes, automation, and best practices
+
+🌍 Languages: English — C1/C2, German — B1
 <!--
 **ignatstrelets/ignatstrelets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
